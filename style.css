@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(202, 255, 237);
+}
+button {
+    border-radius: 30px;
+    border-style: outset;
+    border-color: turquoise;
+    padding: 10px 20px 10px 20px;
+    color: rgb(12, 12, 12);
+}
